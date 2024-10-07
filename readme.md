@@ -48,5 +48,22 @@ then evaluate asts as value
 ```bash
 NumberValue { value: 208, type: 'number' }
 ```
+
+### usage
+
+clone this repo
+
+```bash
+git clone git@github.com:kerimcetinbas/kekelang.git && cd ./kekelang
+```
+install dependencies
+
+```bash
+npm install
+```
+if you want to play with it
+```bash
+npx ts-node index   
+```
 ### License
 [MIT](./LICENSE)
