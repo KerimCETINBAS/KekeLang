@@ -49,4 +49,4 @@ then evaluate asts as value
 NumberValue { value: 208, type: 'number' }
 ```
 ### License
-[MIT](./license)
+[MIT](./LICENSE)
